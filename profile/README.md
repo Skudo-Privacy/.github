@@ -29,7 +29,7 @@ Privacy is not a feature we added on top. It is the reason Skudo exists, and the
 
 ## Privacy, by design
 
-| | |
+| Protection | In practice |
 |---|---|
 | **A sealed mapping** | The address an alias forwards to is encrypted with its own key and found through a blind index. A copy of our database alone would not tell anyone where your mail goes. Notes and display names are encrypted too. |
 | **Relayed, not archived** | In the normal case a message goes straight from the incoming connection to the outgoing one, and nothing is archived. The mail server log is read and cleared every five minutes. |
